@@ -2,13 +2,14 @@ package gr.aueb.cf.schoolapp.validator;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
+import javax.validation.Validator;
 import javax.validation.ValidatorFactory;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
 public class ValidatorUtil {
-    private static final javax.validation.Validator validator;
+    private static final Validator validator;
 
     static {
         ValidatorFactory factory = Validation.buildDefaultValidatorFactory();
