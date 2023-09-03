@@ -53,4 +53,3 @@ This project is a RESTful API for a school management system built using Jakarta
 
    ```bash
    git clone https://github.com/your-username/schoolapp-hibernate-jax4.git
-
