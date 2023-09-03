@@ -1,0 +1,4 @@
+2023-09-03 14:55:01.385 [RMI TCP Connection(4)-127.0.0.1] INFO  org.jboss.weld.Version - WELD-000900: 3.1.9 (Final)
+2023-09-03 14:55:01.478 [RMI TCP Connection(4)-127.0.0.1] INFO  org.jboss.weld.Bootstrap - WELD-ENV-000020: Using jandex for bean discovery
+2023-09-03 14:55:01.673 [RMI TCP Connection(4)-127.0.0.1] INFO  org.jboss.weld.Bootstrap - WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+2023-09-03 14:55:02.127 [RMI TCP Connection(4)-127.0.0.1] INFO  org.jboss.weld.Bootstrap - WELD-ENV-002003: Weld SE container e3591c3c-923a-4fad-b0bf-53736679b1eb initialized
