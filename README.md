@@ -1,4 +1,4 @@
-# SchoolApp - Jakarta EE8 REST API with JAX-RS and Hibernate
+# SchoolApp
 
 ![Java Version](https://img.shields.io/badge/Java-11-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.3.2-blue.svg)
